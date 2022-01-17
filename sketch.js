@@ -17,7 +17,7 @@ birdFly = loadAnimation("bird1.png","bird2.png","bird3.png","bird4.png");
 }
 
 function setup(){
-  createCanvas(500,200);
+  createCanvas(500,(window.innerWidth > 0) ? window.innerWidth : screen.width;);
   back = createSprite(canvas.width/2,canvas.height/2,canvas.width,canvas.height);
   back.addImage(backImg)
   bird = createSprite(60,90,20,20);
