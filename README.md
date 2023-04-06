@@ -6,7 +6,7 @@ This is a simple implementation of the classic game Flappy Bird using HTML, CSS,
 - p5.sound.min.js
 - p5.dom.min.js
 
-You can play the game at https://andy-the-coder.github.io/flappy-bird/.
+You can play the game at https://unsortedandy23.github.io/flappy-bird/.
 
 ## How to Play
 
@@ -14,7 +14,7 @@ To play the game, simply click 🔼 on your keyboard to make the bird flap its w
 
 ## GitHub Profile
 
-You can view my GitHub profile at https://github.com/andy-the-coder.
+You can view my GitHub profile at https://github.com/unsortedAndy23.
 
 ## License
 
